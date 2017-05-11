@@ -1,0 +1,11 @@
+ URL mal escrita.
+
+Junto al código de error 404, el servidor suele enviar un texto en que explica el motivo del error. La especificación HTTP sugiere la frase "Not Found" (No encontrado).1 Muchos servidores por defecto muestran una página web que incluye el código 404 y la frase "Not Found". Los servidores pueden ser configurados para mostrar cualquier página en caso de que la pedida no exista.
+
+Sin embargo, Internet Explorer y Chrome, por defecto no muestran estas páginas de error a no ser que ocupen más de 512 bytes, mostrando una página de error del propio explorador.
+
+A menudo los servidores devuelven un error 404 cuando las páginas se mueven o se borran. En el primer caso, una respuesta más correcta sería devolver un código de error 301 (Movido permanentemente). En el segundo caso se debería devolver un código 410 (Borrado). Como las dos opciones requieren configurar el servidor específicamente, la mayoría de los sitios no hacen uso de estos códigos.
+
+Los errores 404 no deben ser confundidos con errores de DNS, los cuales aparecen cuando parece que la URL apunta a un servidor web que no existe. Estos no son errores 404, que siempre son devueltos por un servidor.
+
+
