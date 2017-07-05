@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	David Telon	stelon@xoom.com
 
 # THANKS
 
