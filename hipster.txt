@@ -11,4 +11,5 @@ El origen de los wikis está en la comunidad de patrones de diseño, cuyos integ
 
 En enero de 2001, los fundadores del proyecto de enciclopedia Nupedia, Jimmy Wales y Larry Sanger, decidieron utilizar un wiki como base para el proyecto de enciclopedia Wikipedia. Originalmente se usó el software UseMod, pero luego crearon un software propio, MediaWiki, que ha sido adoptado después por muchos otros wikis.
 
+TEST
 El wiki más e que existe es la versión en inglés de Wikipedia, seguida por varias otras versiones del proyecto. Los wikis que no pertenecen a Wikipedia son mucho más pequeños y con menor participación de usuarios, generalmente debido al hecho de ser mucho más especializados. Es muy frecuente, por ejemplo, la creación de wikis para proveer de documentación a programas informáticos, especialmente los desarrollados en software libre.
